@@ -5,11 +5,14 @@ This repository contains a machine learning project focused on predicting custom
 ---
 
 ## About the Dataset
-The dataset provides information on customer purchase behavior across various attributes, aiming to help data scientists and analysts understand the factors influencing purchase decisions.  
+The dataset provides information on customer purchase behavior across various attributes, aiming to help data scientists and analysts understand the factors influencing purchase decisions.
+
 It includes:
 - Demographic information (e.g., age, gender, income level)  
 - Purchasing habits (e.g., number of purchases, discounts availed)  
-- Behavioral patterns (e.g., time spent on website, loyalty program status)  
+- Behavioral patterns (e.g., time spent on website, loyalty program status)
+
+This dataset is created by **Rabie El Kharoua** and is licensed under **CC BY 4.0**, allowing reuse with proper citation.
 
 ---
 
